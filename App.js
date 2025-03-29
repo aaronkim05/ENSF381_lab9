@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import HousePricePredictor from "./src/components/HousePricePredictor";
+import HousePricePredictor from "./HousePricePredictor";
 
 function App() {
   return (
