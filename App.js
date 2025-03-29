@@ -8,7 +8,7 @@ function App() {
       <Router>
         <Routes>
           <Route path="/" element={<HousePricePredictor />} />
-          {/* You can add additional routes here */}
+
         </Routes>
       </Router>
     </div>
